@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
 
 ### Hi there 👋
 
