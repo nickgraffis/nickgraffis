@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class="wrapper">
+<div class="pumpkin">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+<div class="eye left"></div>
+<div class="eye right"></div>
+<div class="nose"></div>
+<div class="mouth">
+<div></div>
+<div></div>
+</div>
+<div class="stem"></div>
+</div>
