@@ -1,0 +1,23 @@
+{
+  "name": "nickgraffis",
+  "version": "1.0.0",
+  "description": "<!-- **nickgraffis/nickgraffis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgraffis/nickgraffis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickgraffis/nickgraffis/issues"
+  },
+  "homepage": "https://github.com/nickgraffis/nickgraffis#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
