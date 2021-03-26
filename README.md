@@ -10,7 +10,7 @@
 ### 🌎 Find Me Elsewhere:
 🚀 [nickgraffis.space](https://nickgraffis.space)<br>
 🐦 [@nickgraffistwit](https://twitter.com/nickgraffistwit)<br>
-📸 [@nicholasgraffis] (https://www.instagram.com/nicholasgraffis/)<br>
+📸 [@nicholasgraffis](https://www.instagram.com/nicholasgraffis/)<br>
 👨🏻‍💼 [/in/nickgraffis](https://www.linkedin.com/in/nickgraffis/)<br>
 
 <!--
