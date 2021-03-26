@@ -9,9 +9,9 @@
 
 ### 🌎 Find Me Elsewhere:
 🚀 [nickgraffis.space](https://nickgraffis.space)<br>
-🐦 [@nickgraffistwit](https://twitter.com/nickgraffistwit)<br>
-📸 [@nicholasgraffis](https://www.instagram.com/nicholasgraffis/)<br>
-👨🏻‍💼 [/in/nickgraffis](https://www.linkedin.com/in/nickgraffis/)<br>
+🐦 [@nickgraffistwit](https://twitter.com/nickgraffistwit) on twitter<br>
+📸 [@nicholasgraffis](https://www.instagram.com/nicholasgraffis/) on instagram<br>
+👨🏻‍💼 [/in/nickgraffis](https://www.linkedin.com/in/nickgraffis/) on linkedin<br>
 
 <!--
 **nickgraffis/nickgraffis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
