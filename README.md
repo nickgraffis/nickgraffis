@@ -5,7 +5,7 @@
 📍 Long Beach, Calif.<br>
 
 ### 👨‍💻 What I'm Up To:
-🤡 Building cool stuff with [Babel](https://github.com/https-github-com-steversonTong)
+🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)
 
 ### 🌎 Find Me Elsewhere:
 🚀 [nickgraffis.space](https://nickgraffis.space)<br>
