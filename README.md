@@ -5,7 +5,7 @@
 📍 Long Beach, San Fransisco, Calif. && Remote <br>
 
 ### 👨‍💻 What I'm Up To:
-🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)
+🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)<br>
 🎏 Working on a cool color app/lib [Hadena](https://hadena.netlify.app)
 
 ### 🌎 Find Me Elsewhere:
