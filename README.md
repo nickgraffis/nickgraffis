@@ -5,6 +5,7 @@
 📍 Long Beach, San Fransisco, Calif. && Remote <br>
 
 ### 👨‍💻 What I'm Up To:
+⚡️ Fast Data [@ModelMatch](https://github.com/modelmatch)
 🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)<br>
 🎏 Working on a cool color app/lib [Hadena](https://hadena.netlify.app)
 
