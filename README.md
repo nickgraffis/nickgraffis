@@ -2,12 +2,11 @@
 ### Hey, I'm Nick! 👋
 🤖 Programmer [@ModelMatch](https://github.com/modelmatch)<br>
 🏄‍♂️ Loves surfing, water polo, family, friends, 🐶 Wesley, and [more](https://nickgraffis.me)<br>
-📍 Long Beach, San Fransisco, Calif. && Remote <br>
+📍 Long Beach, ~~San Fransisco~~ <br>
 
 ### 👨‍💻 What I'm Up To:
-⚡️ Fast Data [@ModelMatch](https://github.com/modelmatch)<br>
+⚡️ Helping Find the _Model_ Match [@ModelMatch](https://github.com/modelmatch)<br>
 🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)<br>
-🎏 Working on a cool color app/lib [Hadena](https://hadena.netlify.app)
 
 ### 🌎 Find Me Elsewhere:
 🚀 [nickgraffis.me](https://nickgraffis.me)<br>
