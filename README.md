@@ -2,7 +2,8 @@
 ### Hey, I'm Nick! 👋
 🤖 Programmer [@ModelMatch](https://github.com/modelmatch)<br>
 🏄‍♂️ Loves surfing, water polo, family, friends, 🐶 Wesley, and [more](https://nickgraffis.me)<br>
-📍 Long Beach, ~~San Fransisco~~ <br>
+📍 ~~Long Beach~~, ~~San Fransisco~~, ~~Silver Lake~~, Santa Ana <br>
+🏠 From Long Beach, Calif. <br>
 
 ### 👨‍💻 What I'm Up To:
 ⚡️ Helping Find the _Model_ Match [@ModelMatch](https://github.com/modelmatch)<br>
