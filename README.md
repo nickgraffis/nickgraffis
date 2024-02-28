@@ -2,7 +2,7 @@
 ### Hey, I'm Nick! 👋
 🤖 Programmer [@ModelMatch](https://github.com/modelmatch)<br>
 ❤️ Loves family, friends, 🐶 Wesley, 🏄‍♂️ surfing, 🍷Natural Wine, and [more](https://nickgraffis.me)<br>
-📍 ~~Bixby Knolls~~, ~~South San Fransisco~~, ~~Silver Lake~~, ~~Santa Ana~~, ~~Playa Vista~~, ~~Bird Rock~~, ~~Belmont Heights~~, ~~[Zaferia](https://en.wikipedia.org/wiki/Zaferia,_Long_Beach)~~, ~~Walnut Creek~~, Bird Rock <br>
+📍 🧌 Nomadic @ ~~Bixby Knolls~~, ~~South San Fransisco~~, ~~Cal Heights~~, ~~Silver Lake~~, ~~Santa Ana~~, ~~Playa Vista~~, ~~Bird Rock~~, ~~Belmont Heights~~, ~~[Zaferia](https://en.wikipedia.org/wiki/Zaferia,_Long_Beach)~~, ~~Walnut Creek~~, Bird Rock <br>
 🏠 From Long Beach, Calif. <br>
 
 ### 👨‍💻 What I'm Up To:
