@@ -12,7 +12,6 @@
 ### 🌎 Find Me Elsewhere:
 🚀 [nickgraffis.me](https://nickgraffis.me)<br>
 🐦 [@nickgraffistwit](https://twitter.com/nickgraffistwit) on twitter<br>
-📸 [@nicholasgraffis](https://www.instagram.com/nicholasgraffis/) on instagram<br>
 👨🏻‍💼 [/in/nickgraffis](https://www.linkedin.com/in/nickgraffis/) on linkedin<br>
 📫 [hi@nickgraffis.me](mailto:hi@nickgraffis.me)
 <!--
