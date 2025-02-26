@@ -6,7 +6,7 @@
 🏠 From Long Beach, Calif. <br>
 
 ### 👨‍💻 What I'm Up To:
-⚡️ Helping Find the _Model_ Match [@ModelMatch](https://github.com/modelmatch)<br>
+⚡️ Helping Find the _Model_ Match [@ModelMatch](https://github.com/model-match-inc)<br>
 🤡 Building cool stuff with [Bavel](https://github.com/https-github-com-steversonTong)<br>
 
 ### 🌎 Find Me Elsewhere:
